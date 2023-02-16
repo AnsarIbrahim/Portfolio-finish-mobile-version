@@ -24,10 +24,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖Portfolio-setup-and-mobile-first<a name="about-project"></a>
+# 📖Portfolio-finish-mobile-version<a name="about-project"></a>
 
 
-**Portfolio-setup-and-mobile-first** is a website that displays my Techinical skills and projects that i have done.
+**Portfolio-finish-mobile-version** is a website that displays my Techinical skills and projects that i have done.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -64,6 +64,9 @@
 - **Header**
 - **Tag-Line**
 - **Social-Links**
+- **Contact**
+- **Works**
+- **About-Me**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,18 +94,18 @@ In order to run this project you need:
 
 ### Setup
 
-- Clone this repository to your desired folder with the following commend `git clone git@github.com:AnsarIbrahim/Portfolio-setup-and-mobile-first.git`
+- Clone this repository to your desired folder with the following commend `git clone git@github.com:AnsarIbrahim/Portfolio-finish-mobile-version.git`
 
 
 ### Install
 
-- Type cd Portfolio-setup-and-mobile-first
+- Type cd Portfolio-finish-mobile-version
 - open index.html file in the browser
 
 ### Usage
 
 - To run the project, execute the following command:
-  - Type cd Portfolio-setup-and-mobile-first
+  - Type cd Portfolio-finish-mobile-version
   - open index.html file in the browser
 
 ### Run tests
@@ -113,7 +116,7 @@ In order to run this project you need:
 ### Deployment
 
 - You can deploy this project using:
-  - Type cd Portfolio-setup-and-mobile-first
+  - Type cd Portfolio-finish-mobile-version
   - open index.html file in the browser
 
 
