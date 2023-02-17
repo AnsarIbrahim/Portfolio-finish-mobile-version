@@ -209,7 +209,6 @@ p {
   padding: 5px;
   border: 1px solid #fff;
   margin-bottom: 5px;
-  color: #000;
   border-radius: 5px;
   font-size: 12px;
   line-height: 16px;
@@ -489,7 +488,7 @@ h4 {
     margin-top: 5%;
     display: flex;
   }
-  
+
   .head {
     width: 327px;
     margin-left: 8%;
